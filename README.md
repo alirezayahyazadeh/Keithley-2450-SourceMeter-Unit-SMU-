@@ -25,7 +25,7 @@ Any additional dependencies listed in the requirements.txt file
 Setup
 Clone this repository:
 
-git clone https://github.com/your-username/keithley-2450-automation.git
+git clone https://github.com/alirezayahyazadeh/Keithley-2450-SourceMeter-Unit-SMU-
 cd keithley-2450-automation
 Install dependencies:
 
